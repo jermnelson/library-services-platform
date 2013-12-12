@@ -1,4 +1,5 @@
 [ALSP]: https://github.com/jermnelson/aristotle-library-apps
+[FEDORA]: http://www.fedora-commons.org/
 [RLSP]: https://github.com/jermnelson/redis-library-services-platform
 
 Aristotle Library Services Platform
